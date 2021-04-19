@@ -12,19 +12,19 @@ public class kalkulator
     int x = 6;
     int y = 4;
     
-     int tambah (int x, int y){
+     int penjumblah (int x, int y){
         return x + y;
     }
     
-     int kurang (int x, int y){
+     int pengurangan (int x, int y){
         return x - y;
     }
     
-     int kali (int x, int y){
+     int perkalian (int x, int y){
         return x * y;
     }
     
-    int bagi (int x, int y){
+    int pembagian (int x, int y){
         return x / y;
     }
     
