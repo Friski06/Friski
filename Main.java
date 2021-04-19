@@ -1,6 +1,6 @@
 
 /**
- * class Main
+ * Write a description class Main here.
  *
  * Friski
  * 0.1
