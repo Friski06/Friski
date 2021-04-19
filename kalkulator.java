@@ -13,19 +13,19 @@ public class kalkulator
     int y = 4;
     
     public int tambah (int x, int y){
-        return x + y
+        return x + y;
     }
     
     public int kurang (int x, int y){
-        return x - y
+        return x - y;
     }
     
     public int kali (int x, int y){
-        return x * y
+        return x * y;
     }
     
     public int bagi (int x, int y){
-        return x / y
+        return x / y;
     }
     
     /**
