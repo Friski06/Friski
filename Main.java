@@ -7,7 +7,7 @@
  */
 public class Main{
    
-        public static void main (string args[]){
+        public static void main (String args[]){
             kalkulator kalkul = new kalkulator();
             
             kalkul.name = "operator ";

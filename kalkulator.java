@@ -7,7 +7,7 @@
  */
 public class kalkulator
 {
-    string name;
+    String name;
     
     int x = 6;
     int y = 4;
