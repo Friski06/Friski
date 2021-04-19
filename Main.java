@@ -8,14 +8,16 @@
 public class Main{
    
         public static void main (string args[]){
-            calculator kalkul = new calculator();
+            kalkulator kalkul = new calculator();
             
             kalkul.name = "oprator ";
             
             system.out.println("nilai 1 = "+ kalkul.x);
             system.out.println("nilai 1 = "+ kalkul.y);
             
-            system.out.println(kalkul.name + "penjumlahan 6 + 4 = "+ kalkul.penjumlahan);
-            system.out.println("perkalian dari 6 * 4 = "+ kalkul.kali);
+            system.out.println(kalkul.name + "tambah 6 + 4 = "+ kalkul.tambah);
+            system.out.println(kalkul.name + "kurang 6 - 4 = "+ kalkul.kurang);
+            system.out.println(kalkul.name + "kali 6 * 4 = "+ kalkul.kali);
+            system.out.println(kalkul.name + "bagi 6 / 4 = "+ kalkul.bagi);
         }
     }
