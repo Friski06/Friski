@@ -15,7 +15,7 @@ public class Main{
             system.out.println("nilai 1 = "+ kalkul.x);
             system.out.println("nilai 1 = "+ kalkul.y);
             
-            system.out.println("kalkul.name + "penjumlahan 6 + 4 = "+ kalkul.penjumlahan);
+            system.out.println(kalkul.name + "penjumlahan 6 + 4 = "+ kalkul.penjumlahan);
             system.out.println("perkalian dari 6 * 4 = "+ kalkul.kali);
         }
     }
