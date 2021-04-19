@@ -10,7 +10,7 @@ public class Main{
         public static void main (string args[]){
             kalkulator kalkul = new calculator();
             
-            kalkul.name = "oprator ";
+            kalkul.name = "operator ";
             
             system.out.println("nilai 1 = "+ kalkul.x);
             system.out.println("nilai 1 = "+ kalkul.y);
