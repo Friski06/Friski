@@ -12,10 +12,10 @@ public class Main{
             
             kalkul.name = "oprator ";
             
-            system.out.println("nilai 1 = "+kalkul.x);
-            system.out.println("nilai 1 = "+kalkul.y);
+            system.out.println("nilai 1 = "+ kalkul.x);
+            system.out.println("nilai 1 = "+ kalkul.y);
             
-            system.out.println("perjumlahan dari 6 + 4 = "+ kalkul.tambah);
+            system.out.println("kalkul.name + "penjumlahan" 6 + 4 = "+ kalkul.tambah);
             system.out.println("perkalian dari 6 * 4 = "+ kalkul.kali);
         }
     }
