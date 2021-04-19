@@ -1,33 +1,21 @@
 
 /**
- * Write a description class Main here.
+ *class Main 
  *
- * Friski
- * 0.1
+ * @author Friski
+ * @version 0.1
  */
-public class Main
-{
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class Main
-     */
-    public Main()
-    {
-        // initialise instance variables
-        x = 0;
+public class Main{
+   
+        public static void main (string[] args){
+            calculator kalkul = new calculator();
+            
+            kalkul.name = "oprator ";
+            
+            system.out.println("nilai 1 = "kalkul.x);
+            system.out.println("nilai 1 = "kalkul.y);
+            
+            system.out.println("perjumlahan dari 6 + 4 = "+ kalkul.tambah());
+            system.out.println("perkalian dari 6 * 4 = "+ kalkul.kali)());
+        }
     }
-
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
-}
