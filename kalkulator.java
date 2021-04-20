@@ -12,21 +12,11 @@ public class kalkulator
     int x = 6;
     int y = 4;
     
-     int penjumlahan (int x, int y){
-        return x + y;
-    }
-    
-     int pengurangan (int x, int y){
-        return x - y;
-    }
-    
-     int perkalian (int x, int y){
-        return x * y;
-    }
-    
-    int pembagian (int x, int y){
-        return x / y;
-    }
+     int penjumlahan = x + y;
+     int pengurangan = x - y;
+     int perkalian = x * y;
+     int pembagian = x / y;
+        
     
     /**
      * An example of a method - replace this comment with your own
