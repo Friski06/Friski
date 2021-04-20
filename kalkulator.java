@@ -12,7 +12,7 @@ public class kalkulator
     int x = 6;
     int y = 4;
     
-     int penjumblah (int x, int y){
+     int penjumlahan (int x, int y){
         return x + y;
     }
     
