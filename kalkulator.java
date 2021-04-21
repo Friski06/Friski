@@ -5,6 +5,7 @@
  * @author Friski
  * @version (a version number or a date)
  */
+/*
 public class kalkulator
 {
     String name;
@@ -26,5 +27,5 @@ public class kalkulator
      
     public int add(){
         return x + y;
-    }*/
-}
+    }
+}*/
