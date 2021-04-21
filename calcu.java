@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class calcu here.
+ *class calcu up.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Friski
+ * @version 0.1 up
  */
 public class calcu
 {
