@@ -5,7 +5,7 @@
  * @author Friski
  * @version 0.1 up
  */
-public class calcu
+public class calcu 
 {
      // op1
     public double op1=0;
