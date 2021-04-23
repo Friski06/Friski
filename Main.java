@@ -51,8 +51,14 @@ public class Main{
       
       System.out.println("\n Kalkulator Programmer");
       System.out.println("hasil dari bujur = "+scan.bujur(6));
-       
-       
+      
+     
+      System.out.println(" \n CalculatorTrigonometri ");
+      System.out.println("Nilai dari sin 20 adalah"+ Math.sin(20));
+      System.out.println("Nilai dari Cos 60 adalah"+ Math.cos(60));
+      System.out.println("Nilai dari tan 16 adalah"+ Math.tan(16));
+      System.out.println("Nilai dari derajat sudut untuk PI/4 adalah " + Math.toDegrees(Math.PI/4) + " derajat");  
+      System.out.println("Nilai dari sudut radian untuk sudut 70 derajat adalah " + Math.toRadians(70));  
        
    }      
    }
