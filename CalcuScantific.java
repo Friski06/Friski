@@ -6,7 +6,7 @@
  * @version (a version number or a date)
  */
 
-public class CalcuScantific extends calcu
+public class CalcuScantific extends Calculator
 {
  public double luas()
 {

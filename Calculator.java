@@ -1,26 +1,30 @@
 
 /**
- *class calcu up.
+ * Write a description of class Calculator here.
  *
- * @author Friski
- * @version 0.1 up
+ * @author (your name)
+ * @version (a version number or a date)
  */
-public class calcu{
-     // op1
+public class Calculator{
+    // op1
     public double op1=0;
     public double op2=0;
     
     public static final String info = "Kalkulatorku";
     public static int jumlahobject = 0;
-    
     private SimpanCalculator soc;
    
           
     /**
      * Constructor for objects of class Calculator
      */
-    public calcu(SimpanCalculator soc)
+    public Calculator()
     {
+        // initialise instance variables
+        
+    }
+    
+    public Calculator(SimpanCalculator soc){
         // initialise instance variables
         this.soc = soc;
     }

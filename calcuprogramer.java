@@ -6,7 +6,7 @@ import javax.swing.Spring;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class calcuprogramer extends calcu
+public class calcuprogramer extends Calculator
 {
     /**
      *  class calcuprogramer

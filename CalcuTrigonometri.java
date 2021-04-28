@@ -5,7 +5,7 @@
  * @author (your name here)
  * @version (version number or date here)
  */
-public abstract class CalcuTrigonometri extends calcu
+public abstract class CalcuTrigonometri extends Calculator
 {
    protected double sudut;
    public abstract void konversi(double sudut);
